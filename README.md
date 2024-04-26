@@ -14,6 +14,8 @@
 
 - Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
 
+- Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
+
 ## Statistics
 
 Here are the current statistics of submissions: [Link](https://yawn-sean.github.io/Daily_CF_Problems/#).
@@ -22,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1500 | [CF891A](https://codeforces.com/problemset/problem/891/A) | You need the first $1$ , and then you can make all the others $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0328/solution/cf891a.md) |
-| 2100 | [CF1163D](https://codeforces.com/problemset/problem/1163/D) | DP-problem. Think about the status. You don't need the time complexity to be that low. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0328/solution/cf1163d.md) |
+| 1600 | [CF1029C](https://codeforces.com/problemset/problem/1029/C) | It's always easier to consider the intersection when you add a segment instead of deleting it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0426/solution/cf1029c.md) |
+| 2100 | [CF1525E](https://codeforces.com/problemset/problem/1525/E) | The conditions for a unlit city is much simpler. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0426/solution/cf1525e.md) |
